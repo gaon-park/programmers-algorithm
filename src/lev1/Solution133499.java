@@ -1,3 +1,5 @@
+package lev1;
+
 public class Solution133499 {
     String[] str = {"aya", "ye", "woo", "ma"};
 
