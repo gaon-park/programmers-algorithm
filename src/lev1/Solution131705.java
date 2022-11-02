@@ -1,5 +1,6 @@
 package lev1;
 
+// https://school.programmers.co.kr/learn/courses/30/lessons/131705
 public class Solution131705 {
     public int solution(int[] number) {
         int count = 0;

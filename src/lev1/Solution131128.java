@@ -2,6 +2,7 @@ package lev1;
 
 import java.util.*;
 
+// https://school.programmers.co.kr/learn/courses/30/lessons/131128
 public class Solution131128 {
     public String solution(String x, String y) {
         List<String> listX = new ArrayList<>(Arrays.asList(x.split("")));

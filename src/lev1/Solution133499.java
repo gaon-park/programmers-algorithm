@@ -1,5 +1,6 @@
 package lev1;
 
+// https://school.programmers.co.kr/learn/courses/30/lessons/133499
 public class Solution133499 {
     String[] str = {"aya", "ye", "woo", "ma"};
 

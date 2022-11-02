@@ -3,6 +3,7 @@ package lev1;
 import java.util.HashMap;
 import java.util.Map;
 
+// https://school.programmers.co.kr/learn/courses/30/lessons/118666
 public class Solution118666 {
     public String solution(String[] survey, int[] choices) {
         Map<String, Integer> result = new HashMap<>() {{

@@ -1,5 +1,6 @@
 package lev1;
 
+// https://school.programmers.co.kr/learn/courses/30/lessons/132267
 public class Solution132267 {
     // a: 마트에 주어야 하는 병 수
     // b: 빈 병 a개를 가져다 주면 마트가 주는 콜라 병 수
