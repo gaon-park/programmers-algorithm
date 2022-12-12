@@ -17,7 +17,6 @@ public class Solution86052 {
         int count = 0;
 
         while (visited[i][j][d] != 1) {
-
             count++;
             visited[i][j][d] = 1;
 
